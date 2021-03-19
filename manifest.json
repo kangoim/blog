@@ -1,6 +1,6 @@
 {
-  "name": "KompiTextAja",
-  "short_name": "Ibukasti Blog",
+  "name": "Ibukasti Blog",
+  "short_name": "icon-ibk",
   "start_url": "https://www.ibukasti.com/",
   "display": "standalone",
   "background_color": "#fff",
